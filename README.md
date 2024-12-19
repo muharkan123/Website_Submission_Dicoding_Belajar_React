@@ -3,7 +3,6 @@ Proyek ini adalah aplikasi **catatan sederhana** yang dibangun menggunakan **Rea
 - Menambah catatan  
 - Menghapus catatan  
 - Mengarsipkan catatan  
-- Mencari catatan  
 
 ## Fitur  
 1. **Menambah Catatan**  
